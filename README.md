@@ -56,10 +56,9 @@ This project simulates a real-world financial crime workflow by profiling custom
    Mapped clusters and anomalies using PCA to show separation.
 ---
 
-   <!-- ### Visuals
-<!--![Anomaly Clusters](images/anomaly_clusters.png)  
-![PCA Projection](images/pca_projection.png) 
-  -->
+   ### Visuals
+  
+  <img src="images/IF - AnomTM.png" alt="Anomaly Clusters" width="600"/>
 
 
 ### Results
